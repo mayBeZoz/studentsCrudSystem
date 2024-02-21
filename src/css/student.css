@@ -1,0 +1,14 @@
+.student {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: 3px solid var(--mainColor);
+  padding: 10px;
+  border-radius: 16px;
+
+}
+.student div {
+  font-size: 1.5em;
+  text-align: center;
+  margin: 5px 0;
+}
